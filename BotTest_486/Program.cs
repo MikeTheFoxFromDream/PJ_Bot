@@ -15,7 +15,7 @@ namespace BotTest_486
         {
             var discord = new DiscordClient(new DiscordConfiguration()
             {
-                Token = "<token>",
+                Token = "OTc4NjM3Mzg2OTg2NzA5MDQy.GYNPw4.a2xfkue76fVagfDFLOaHRK3ZHihH4wzoSADIRA",
                 TokenType = TokenType.Bot,
                 Intents = DiscordIntents.AllUnprivileged
             });

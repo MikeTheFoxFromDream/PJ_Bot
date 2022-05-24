@@ -11,4 +11,10 @@
     <PackageReference Include="DSharpPlus.Interactivity" Version="4.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="DSharpPlus">
+      <HintPath>bin\Debug\net5.0\DSharpPlus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
